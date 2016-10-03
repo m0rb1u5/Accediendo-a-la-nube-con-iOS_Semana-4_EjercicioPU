@@ -13,6 +13,7 @@
 		945AB4391DA268130010FB7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 945AB4381DA268130010FB7C /* Assets.xcassets */; };
 		945AB43C1DA268130010FB7C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 945AB43A1DA268130010FB7C /* LaunchScreen.storyboard */; };
 		945AB4471DA268140010FB7C /* Accediendo_a_la_nube_con_iOS_Semana_4_EjercicioPUTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 945AB4461DA268140010FB7C /* Accediendo_a_la_nube_con_iOS_Semana_4_EjercicioPUTests.swift */; };
+		945AB4521DA268B80010FB7C /* ModeloIMC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 945AB4511DA268B80010FB7C /* ModeloIMC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		945AB4421DA268140010FB7C /* Accediendo-a-la-nube-con-iOS_Semana-4_EjercicioPUTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Accediendo-a-la-nube-con-iOS_Semana-4_EjercicioPUTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		945AB4461DA268140010FB7C /* Accediendo_a_la_nube_con_iOS_Semana_4_EjercicioPUTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Accediendo_a_la_nube_con_iOS_Semana_4_EjercicioPUTests.swift; sourceTree = "<group>"; };
 		945AB4481DA268140010FB7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		945AB4511DA268B80010FB7C /* ModeloIMC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModeloIMC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				945AB4311DA268130010FB7C /* AppDelegate.swift */,
 				945AB4331DA268130010FB7C /* ViewController.swift */,
+				945AB4511DA268B80010FB7C /* ModeloIMC.swift */,
 				945AB4351DA268130010FB7C /* Main.storyboard */,
 				945AB4381DA268130010FB7C /* Assets.xcassets */,
 				945AB43A1DA268130010FB7C /* LaunchScreen.storyboard */,
@@ -201,6 +204,7 @@
 			files = (
 				945AB4341DA268130010FB7C /* ViewController.swift in Sources */,
 				945AB4321DA268130010FB7C /* AppDelegate.swift in Sources */,
+				945AB4521DA268B80010FB7C /* ModeloIMC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
